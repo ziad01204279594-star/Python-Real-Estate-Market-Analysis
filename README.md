@@ -1,5 +1,7 @@
  🏙️ New York Real Estate Market Analysis
 
+https://studio.youtube.com/video/c6ygSWqii24/edit
+
  📌 Project Overview
 This project provides a comprehensive Exploratory Data Analysis (EDA) of the New York housing market. The objective is to analyze property price distributions, examine structural factors affecting home values (such as bedroom and bathroom counts), and identify major property categories across the dataset.
 
